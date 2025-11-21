@@ -18,4 +18,5 @@ Jadavpur University
 | 002310501086  | Arjeesh Palai | BCSE'27 UG-3.1  | [GitHub](https://github.com/shadowbeast0) | 4 & 5 
 
 Individual all assignments of Arko Dasgupta given [here](https://github.com/arkodasgupta05/Computer-Graphics)
+
 Individual all assignments of Arjeesh Palai given [here](https://gihub.com/shadowbeast0/Graphics-Lab)
