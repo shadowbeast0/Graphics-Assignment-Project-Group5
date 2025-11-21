@@ -15,6 +15,6 @@ Jadavpur University
 | 002310501083  | Shinjan Roy   | BCSE'27 UG-3.1  | [GitHub](https://github.com/Lactose-Tolerance) | 2 & 3
 | 002310501084  | Souradeep De  | BCSE'27 UG-3.1  | [GitHub](https://github.com/souradeepde05) | 1 & 7
 | 002310501085  | Arko Dasgupta | BCSE'27 UG-3.1  | [GitHub](https://github.com/arkodasgupta0412) | 6
-| 002310501086  | Arjeesh Palai | BCSE'27 UG-3.1  | [GitHub](https://github.com/shadowbeast0) | 4 & 5 (Individual all assignment repo: https://gihub.com/shadowbeast0/Graphics-Lab)
+| 002310501086  | Arjeesh Palai | BCSE'27 UG-3.1  | [GitHub](https://github.com/shadowbeast0) | 4 & 5 
 
 Individual all assignments of Arjeesh Palai given [here](https://gihub.com/shadowbeast0/Graphics-Lab)
